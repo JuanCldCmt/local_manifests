@@ -1,0 +1,3 @@
+<manifest>
+	<project name="lineageos4microg/android_prebuilts_prebuiltapks" path="prebuilts/prebuiltapks" remote="github" revision="master" />
+</manifest>
