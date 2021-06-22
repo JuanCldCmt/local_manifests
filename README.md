@@ -15,5 +15,6 @@ In build/make/target/product/handheld_product.mk
     GsfProxy \
     MozillaNlpBackend \
     NominatimNlpBackend \
+    FDroid \
     F-DroidPrivilegedExtension
 ```
